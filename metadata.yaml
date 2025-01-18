@@ -1,0 +1,32 @@
+_repo: 95-perfect-b-The-older-residences-at-Nantucket_74940
+_version: 0.0.1
+alternative_title: '"Ninety-five percent perfect" :  The older residences at Nantucket'
+creator:
+  author:
+    agent_name: Crosby, Everett Uberto
+    alias: Crosby, Everett U.
+    birthdate: 1871
+    deathdate: 1960
+    gutenberg_agent_id: '57737'
+    url: http://www.gutenberg.org/2009/agents/57737
+description: ''
+gutenberg_issued: '2024-12-19'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '74940'
+language: en
+pgterms:marc905: 20231201032506crosby
+pgterms:marc906: '1937'
+pgterms:marc907: MA
+production_note: Carol Brown, Steve Mattern and the Online Distributed Proofreading
+  Team at https://www.pgdp.net
+publication_note: '  $aNantucket, Mass. :$bThe Inquirer and Mirror Press, $c1937.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Historic buildings -- Massachusetts -- Nantucket'
+- !lcc 'F001'
+- GITenberg
+title: '"95% perfect" : $b The older residences at Nantucket'
+url: http://www.gutenberg.org/ebooks/74940
