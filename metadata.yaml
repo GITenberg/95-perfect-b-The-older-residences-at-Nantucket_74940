@@ -1,6 +1,9 @@
 _repo: 95-perfect-b-The-older-residences-at-Nantucket_74940
 _version: 0.1.0
 alternative_title: '"Ninety-five percent perfect" :  The older residences at Nantucket'
+covers:
+- cover_type: archival
+  image_path: 74940-h/images/cover.jpg
 creator:
   author:
     agent_name: Crosby, Everett Uberto
@@ -10,6 +13,8 @@ creator:
     gutenberg_agent_id: '57737'
     url: http://www.gutenberg.org/2009/agents/57737
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/74940#95-perfect-b-The-older-residences-at-Nantucket
 gutenberg_issued: '2024-12-19'
 gutenberg_type: Text
 identifiers:
